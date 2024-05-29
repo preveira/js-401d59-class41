@@ -1,6 +1,6 @@
 {
   "name": "js-401d59-class41",
-  "version": "51.0.10",
+  "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
