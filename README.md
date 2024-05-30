@@ -1,6 +1,6 @@
 Sure, here's a sample `README.md` file for your React Native contacts app:
 
-```markdown
+```markdown 
 # My Contacts App
 
 This is a simple React Native app built using Expo, designed to display contact information and provide quick access to call or text a contact directly from the app.
